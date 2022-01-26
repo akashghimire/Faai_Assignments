@@ -1,0 +1,6 @@
+Project Three:
+
+You are given several images that capture objects randomly scattered around a table. The table provides the bright background on which the objects are clearly visible. Such images resemble the images captured and processed by an industrial vision system for robotic picking of objects from a flexible feeder.
+Your task is to implement an image processing algorithm that identifies each object in the image, with subsequent determination of the objects’ positions and orientations with respect to the image coordinate frame. The result of the processing should be both printed in a text form and visualized on top of the original image.
+You may choose one image on which your algorithm will be tested, or evaluate it on several images.
+Perform both the programming and the description of the steps in a single Jupyter notebook (using cells for “Code” and “Markdown” respectively).

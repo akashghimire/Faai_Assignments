@@ -1,0 +1,6 @@
+Project One Question:
+
+Find a public dataset that is suitable for supervised machine learning.
+Train several machine learning models based on the dataset. Assess how well each model performs using one or more quantitative metrics.
+Include an analysis of your work with Matplotlib graphs and your own commentary.
+Perform both the programming and the description of the steps in a single Jupyter notebook (using cells for “Code” and “Markdown” respectively). Submit the notebook along with the chosen dataset in Blackboard.
